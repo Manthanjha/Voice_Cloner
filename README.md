@@ -56,7 +56,7 @@ To perform voice cloning with the real-time voice cloning model, follow these st
 1. Open the provided Jupyter Notebook:
 
 ```
-jupyter notebook Real_Time_Voice_Cloning.ipynb
+jupyter notebook voice_cloner_finally.ipynb
 ```
 
 2. In the Jupyter Notebook, input your desired text or specify the path to an audio file for voice cloning.
