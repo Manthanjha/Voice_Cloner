@@ -64,7 +64,4 @@ jupyter notebook voice_cloner_finally.ipynb
 4. The generated synthetic speech will be saved in the specified output file path.
 
 
-## I/O
 
-input file - output10.wav
-output file - demo_output_1.wav
